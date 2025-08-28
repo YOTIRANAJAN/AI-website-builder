@@ -1,15 +1,30 @@
 # AI Website Builder
 
-This is an AI-powered website builder project using [Convex](https://convex.dev/) and [Gemini API](https://ai.google.dev/).  
-It allows users to generate and manage websites with AI assistance.
+**Author:** Jyotiranjan Sahoo
 
-## Features
+Welcome to the AI Website Builder – an innovative project that leverages the power of [Convex](https://convex.dev/) and [Gemini API](https://ai.google.dev/) to help you generate and manage websites with AI assistance.
 
-- AI-powered website generation
-- Convex backend integration
-- Gemini API for advanced AI features
+---
 
-## Getting Started
+## 🚀 Live Demo
+
+Check out the deployed project on Vercel:  
+**[ai-website-builder-l8ztw5acc.vercel.app](https://ai-website-builder-l8ztw5acc.vercel.app/)**
+
+---
+
+## ✨ Features
+
+- **AI-powered website generation**  
+  Instantly create websites using advanced AI models.
+- **Convex backend integration**  
+  Real-time data and seamless backend operations.
+- **Gemini API support**  
+  Unlock powerful AI features for content and design.
+
+---
+
+## 🛠️ Getting Started
 
 ### 1. Clone the repository
 
@@ -39,16 +54,26 @@ NEXT_PUBLIC_GEMINI_API_KEY=your-gemini-api-key
 npm run dev
 ```
 
-### 5. Deploy to Vercel
+---
+
+## 🌐 Deploy to Vercel
 
 You can deploy this project to Vercel using the following link:
 
-[Vercel Deploy Link](https://ai-website-builder-km772v3sz.vercel.app)
+[Vercel Deploy Link](https://ai-website-builder-l8ztw5acc.vercel.app/)
 
-Or use the Vercel CLI:
+Or deploy manually with the Vercel CLI:
 
 ```sh
 vercel --prod
 ```
 
-## License
+---
+
+## 📄 License
+
+MIT
+
+---
+
+>
