@@ -43,7 +43,7 @@ npm run dev
 
 You can deploy this project to Vercel using the following link:
 
-[Vercel Deploy Link](https://ai-website-builder-main.vercel.app)
+[Vercel Deploy Link](https://ai-website-builder-dqaui1d8w.vercel.app/)
 
 Or use the Vercel CLI:
 
